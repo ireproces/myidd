@@ -1,0 +1,6 @@
+venv
+txt-indexer-searcher/target/
+.vscode/
+indexes_lucene/
+downloadfiles/papers_txt/
+downloadfiles/arxiv_page.html
