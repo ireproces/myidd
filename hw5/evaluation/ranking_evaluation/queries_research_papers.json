@@ -1,0 +1,9 @@
+{
+  "research_papers": [
+    {"id": "RP1", "index": "research_papers", "query": "text-to-SQL models: recent methods and benchmarks"},
+    {"id": "RP2", "index": "research_papers", "query": "Natural language to SQL: datasets, evaluation, and challenges"},
+    {"id": "RP3", "index": "research_papers", "query": "glyphosate exposure AND cancer risk epidemiology meta-analysis"},
+    {"id": "RP4", "index": "research_papers", "query": "machine learning models for cancer prediction F1 score comparison"},
+    {"id": "RP5", "index": "research_papers", "query": "climate change impact models and attribution studies"}
+  ]
+}

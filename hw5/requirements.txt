@@ -1,0 +1,9 @@
+requests
+lxml
+tqdm
+elasticsearch>=7.0.0,<8.0.0
+beautifulsoup4
+httpx
+selenium
+ext_llm
+matplotlib

@@ -1,0 +1,11 @@
+config:
+  logging: true
+  db_path: logs.db
+  presets:
+    groq-llama:
+      provider: groq
+      model_id: meta-llama/llama-4-scout-17b-16e-instruct
+      groq_api_key_variable_name: GROQ_API_KEY
+      invocation_method: converse
+      temperature: 0
+      max_tokens: 1024

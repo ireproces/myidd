@@ -1,0 +1,9 @@
+{ 
+ "figures": [
+    {"id": "F1", "index": "figures", "query": "visualizations of text-to-SQL architecture or pipeline"},
+    {"id": "F2", "index": "figures", "query": "neural network training curves and confusion matrices"},
+    {"id": "F3", "index": "figures", "query": "climate change maps and trend plots"},
+    {"id": "F4", "index": "figures", "query": "ROC and PR curves for cancer prediction models"},
+    {"id": "F5", "index": "figures", "query": "glyphosate exposure dose–response charts"}
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "tables": [
+    {"id": "T1", "index": "tables", "query": "SQL schema examples and example query results tables"},
+    {"id": "T2", "index": "tables", "query": "neural network benchmark tables: accuracy, F1, precision"},
+    {"id": "T3", "index": "tables", "query": "climate change statistics tables: temperature, sea level"},
+    {"id": "T4", "index": "tables", "query": "cancer prediction model metrics table F1 precision recall"},
+    {"id": "T5", "index": "tables", "query": "glyphosate assay results table exposure dose response"}
+  ],
+}

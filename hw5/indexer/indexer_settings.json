@@ -1,0 +1,66 @@
+{
+    "research_papers":{
+        "settings": {
+            "analysis": {
+                "analyzer": {
+                    "default": {
+                        "type": "english"
+                    }
+                }
+            }
+        },
+        "mappings": {
+            "properties": {
+                "title": {"type": "text", "analyzer": "english"},
+                "authors": {"type": "keyword"},
+                "published": {"type": "date"},
+                "summary": {"type": "text", "analyzer": "english"},
+                "link": {"type": "keyword"},
+                "content": {"type": "text", "analyzer": "english"}
+            }
+        }
+    },
+    "figures":{
+        "settings": {
+            "analysis": {
+                "analyzer": {
+                    "default": {
+                        "type": "standard"
+                    }
+                }
+            }
+        },
+        "mappings": {
+            "properties": {
+                "figure_id": {"type": "keyword"},
+                "caption": {"type": "text", "analyzer": "standard"},
+                "paper_id": {"type": "keyword"},
+                "url": {"type": "keyword"},
+                "image_url": {"type": "keyword"},
+                "blob_data": {"type": "text", "analyzer": "standard"}
+            }
+        }
+    },
+    "tables":{
+        "settings": {
+            "analysis": {
+                "analyzer": {
+                    "default": {
+                        "type": "standard"
+                    }
+                }
+            }
+        },
+        "mappings": {
+            "properties": {
+                "table_id": {"type": "keyword"},
+                "caption": {"type": "text", "analyzer": "standard"},
+                "paper_id": {"type": "keyword"},
+                "data": {"type": "text", "analyzer": "standard"},
+                "table_url": {"type": "keyword"},
+                "blob_data": {"type": "text", "analyzer": "standard"}
+            }
+        }
+    }
+
+}
