@@ -1,0 +1,17 @@
+vin
+manufacturer
+model
+year
+price
+mileage
+transmission
+fuel_type
+body_type
+color
+description
+cylinders
+wheel_system
+condition
+lat
+long
+row_id

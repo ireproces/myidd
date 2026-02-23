@@ -1,0 +1,12 @@
+Loading data from blocked2_test.csv...
+Reading from dedupe_learned_settings
+Classifying pairs...
+Evaluating results...
+--- Evaluation (Threshold: 0.5) ---
+TP: 2455
+FP: 28
+FN: 4
+TN: 3
+Precision: 0.9887
+Recall:    0.9984
+F1 Score:  0.9935

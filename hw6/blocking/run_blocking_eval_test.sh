@@ -1,0 +1,2 @@
+python3 blocking_evaluator.py -b ../dataset/train_valid_test/blocked1_test.csv -e ../dataset/train_valid_test/excluded1_test.csv > blocking_eval1_test.txt
+python3 blocking_evaluator.py -b ../dataset/train_valid_test/blocked2_test.csv -e ../dataset/train_valid_test/excluded2_test.csv > blocking_eval2_test.txt

@@ -1,0 +1,1 @@
+python3 ditto_eval.py -i ditto/input/input.jsonl -p ditto/output/output.jsonl -m ../dataset/match_table.csv > ditto_eval.txt

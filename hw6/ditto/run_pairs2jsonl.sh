@@ -1,0 +1,1 @@
+python3 pairs2jsonl.py -i ../dataset/train_valid_test/blocked2_test.csv -o ditto/input/input.jsonl

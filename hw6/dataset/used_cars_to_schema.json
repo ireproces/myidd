@@ -1,0 +1,18 @@
+{
+    "vin" : "vin",
+    "make_name": "manufacturer",
+    "model_name": "model",
+    "year": "year",
+    "price": "price",
+    "mileage": "mileage",
+    "transmission": "transmission",
+    "fuel_type": "fuel_type",
+    "body_type": "body_type",
+    "exterior_color": "color",
+    "description": "description",
+    "engine_cylinders": "cylinders",
+    "wheel_system": "wheel_system",
+    "is_new" : "condition",
+    "latitude": "lat",
+    "longitude": "long"
+}

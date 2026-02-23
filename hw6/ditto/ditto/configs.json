@@ -1,0 +1,10 @@
+[
+  {
+    "name": "used_cars_vehicles",
+    "task_type": "classification",
+    "vocab": ["0", "1"],
+    "trainset": "data/used_cars_vehicles/train.txt",
+    "validset": "data/used_cars_vehicles/valid.txt",
+    "testset": "data/used_cars_vehicles/test.txt"
+  }
+]

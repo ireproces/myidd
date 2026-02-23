@@ -1,0 +1,11 @@
+381Loading blocked2_shuffled_pairs.csv...
+Computing similarity features...
+
+--- Evaluation (Threshold: 5.0) ---
+TP: 3816
+FP: 8
+FN: 319
+TN: 61
+Precision: 0.9979
+Recall:    0.9229
+F1 Score:  0.9589
